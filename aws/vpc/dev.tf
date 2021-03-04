@@ -12,7 +12,7 @@ module "vpc" {
 	Name = "VPC_Project"
 	Environment = "Dev"
 	Team = "DevOps"
-	Created_by = "Farrukh"
+	Created_by = "me"
 	Department = "IT"
 	Bill = "CFO"
 	}
